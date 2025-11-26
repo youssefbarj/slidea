@@ -18,7 +18,6 @@ export default function Slide3() {
         />
       </div>
 
-      {/* AMENDED SECTION: Removed Vitamin/Medical text, focused on Depth/Permanence */}
       <div className="bg-red-50 border-l-4 border-red-500 p-4 mt-6 sm:mt-8 max-w-2xl mx-auto rounded-r-lg">
         <h3 className="text-red-800 font-bold mb-2 text-base sm:text-lg">
           Différence fondamentale :
