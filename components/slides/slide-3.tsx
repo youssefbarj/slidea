@@ -17,18 +17,12 @@ export default function Slide3() {
           className="sm:w-[400px] sm:h-[320px] rounded-lg object-contain"
         />
       </div>
+      
+      {/* This is the key sentence, now outside the red box, styled prominently. */}
+      <p className="text-gray-800 text-base sm:text-xl font-bold mt-6 sm:mt-8 text-center leading-relaxed">
+        Le microblading n&apos;est pas un tatouage permanent : l&apos;aiguille ne doit pas pénétrer profondément dans la peau et la cliente ne doit en aucun cas saigner.
+      </p>
 
-      <div className="bg-red-50 border-l-4 border-red-500 p-4 mt-6 sm:mt-8 max-w-2xl mx-auto rounded-r-lg">
-        <h3 className="text-red-800 font-bold mb-2 text-base sm:text-lg">
-          Différence fondamentale :
-        </h3>
-        <p className="text-red-700 text-sm sm:text-base leading-relaxed font-semibold">
-          Le microblading n&apos;est PAS un tatouage permanent.
-        </p>
-        <p className="text-red-700 text-sm sm:text-base leading-relaxed mt-2">
-          L&apos;aiguille ne doit pas pénétrer profondément dans la peau et <span className="font-bold">la cliente ne doit en aucun cas saigner</span>.
-        </p>
-      </div>
     </div>
   )
 }
