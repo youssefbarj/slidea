@@ -26,7 +26,7 @@ export default function Slide3() {
           Le microblading n&apos;est PAS un tatouage permanent.
         </p>
         <p className="text-red-700 text-sm sm:text-base leading-relaxed mt-2">
-          Comme le montrent les schémas, le tatouage permanent pénètre profondément dans le derme. Le microblading est une technique différente qui reste superficielle et ne doit pas atteindre cette profondeur.
+          L&apos;aiguille ne doit pas pénétrer profondément dans la peau et <span className="font-bold">la cliente ne doit en aucun cas saigner</span>.
         </p>
       </div>
     </div>
