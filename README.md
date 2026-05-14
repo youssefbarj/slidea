@@ -1,18 +1,20 @@
-# Technique Partagée — Microblading / Microblading EN / Microblading+Microshading Slide 3
+# MICROBLADING — Slide 2 / MICROBLADING ET MICROSHADING — Slide 3
 
-**Course:** MICROBLADING / MICROBLADING (EN) / MICROBLADING + MICROSHADING  
-**Slide:** 3  
-**Live URL:** https://slidea.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-Shared technique slide used across all three microblading-related courses — the French course, the English course, and the combined microblading and microshading course. At slide 3, learners receive their first look at the core technique content: tool handling, pigment preparation, and the foundational strokes that underpin all microblading work. The shared nature of this asset ensures consistent technique instruction across language variants.
+**Course:** MICROBLADING — Slide 2
+**Course:** MICROBLADING ET MICROSHADING — Slide 3
+**Live URL:** https://slidea.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![slidea](./screenshot.png)
+![slidea](https://github.com/youssefbarj/slidea/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
