@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![slidea](https://github.com/youssefbarj/slidea/raw/main/screenshot.png)
+![slidea](https://raw.githubusercontent.com/youssefbarj/slidea/main/screenshot.png)
 
 ## What this slide does
 
